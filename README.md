@@ -1,7 +1,7 @@
 # Statistical-Modeling-of-S-P-500
 
 
-In this report, we will work on S&P 500 index.  UsingYahooStockDataSourcePythonmodule, we scrapped its values from 2000 to 2019.
+In this report, we will work on S&P 500 index.  Using YahooStockDataSource Python module, we scrapped its values from 2000 to 2019.
 
 
 First, we will apply Linear Time Series and GARCH model to its attribute:Open. We will implement a methodology to fit and to find the best ARIMA model by minimizing AIC over a non-trivial combinations of parameters.
